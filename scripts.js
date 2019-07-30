@@ -15,5 +15,5 @@ function reset(){
 
 
 
-botao.onclick = acessar;
+botao.onclick = acessar;    
 Evc.onclick = reset;
